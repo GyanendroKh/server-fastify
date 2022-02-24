@@ -26,7 +26,11 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/graphql": "^10.0.5",
+    "@nestjs/mercurius": "^10.0.5",
     "@nestjs/platform-fastify": "^8.3.1",
+    "graphql": "^16.3.0",
+    "mercurius": "^9.3.3",
     "nestjs-pino": "^2.5.0",
     "pino-http": "^6.6.0",
     "reflect-metadata": "^0.1.13",
